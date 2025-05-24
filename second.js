@@ -5,3 +5,4 @@ console.log('Hello there!');
 //Code
 //Code
 //Code
+function add() {}
